@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
-import Todos from '../Todos.js';
+import FormModel from '../FormModel.js';
 
 it('renders without crashing', () => {
-    let mountedTodo = shallow(<Todos />);
+    let mountedForm = shallow(<FormModel />);
 });
