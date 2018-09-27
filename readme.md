@@ -24,7 +24,7 @@ This App contains different parts and those are being uploaded in different repo
 [Persistant Simple Todo Client App](https://github.com/Rehman-Ali/ToDo_step_3) - Completed By Rehman Ali
 
 #### Step 4
-[Persistant Simple Todo Client App with REST API](https://github.com/Rehman-Ali/ToDo_step_3) - Completed By Rehman Ali
+[Persistant Simple Todo Client App with REST API](https://github.com/Rehman-Ali/Part-2-step-4) - Completed By Rehman Ali
 
 #### Step 5
 [Component Based using ReactiveX Todo App](https://github.com/alinaeem1/ReactiveX_PWA_Todo_APP_REST_API) - Working Ali Naeem
